@@ -1,1 +1,1 @@
-# my-recipe
+This is the recipe how to create Tea
